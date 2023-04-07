@@ -1,0 +1,8 @@
+.techniques {
+  min-width: 80%;
+  position: relative;
+  display: flex;
+  justify-content: center;
+  flex-direction: column;
+  padding-top: 100px;
+}
